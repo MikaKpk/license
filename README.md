@@ -101,3 +101,20 @@ All liability for that modification goes to its publisher, as what happens with 
 ## 6: This License
 
 This is version V1 of the MKCL License, created on the 28th of May, 2018.
+
+# German/Deutsch 🇩🇪
+
+## 1: Anwendung der Lizenz
+
+Diese Lizenz ist auf den Großteil des von mir entwickelten und verbreiteten Contents anwendbar, sofern für ein jeweiliges Produkt keine anderen Bestimmungen gelten.
+
+Diese Lizenz ist nur anwendbar auf Arbeit, die tatsächlich von mir verrichted wurde. Wenn ein Produkt
+* aus einem bestehenden Produkt weiterentwickelt wurde
+* zu einem bestehenden Produkt hinzugefügt wurde
+Gelten andere Bedingungen. Grundsätzlich gelten die Bedingungen beider Lizenzen gemeinsam, wobei die einschränkenderen Bedingungen vorrang vor denen der anderen Lizenz haben, sofern die originale Lizenz des weiterentwickelten Produkts dies nicht verbietet.
+
+Zum Beispiel, wenn ich ein bestehendes Bild bearbeitet habe, welches vorraussetzt, dass alle Bearbeitungen auch frei weiter bearbeitet werden können, findet der Abschnitt dieser Lizenz zur Regelung von Bearbeitungen keine Anwendung.
+
+Wenn ein neu erstellter Inhalt zu einem bestehenden Produkt hinzugefügt wurden, gilt diese Lizenz für den hinzugefügten Inhalt selbst, das modifizierte Produkt mit dem hinzugefügten Inhalt gemeinsam folgt jedoch den Bedingungen für weiterentwickelte Produkte.
+
+Zum Beispiel, wenn ich ein neues Bild, an dem ich volle Rechte besitze, zu einer Sammlung von Bildern hinzufüge, so steht das hinzugefügte Bild selbst unter dieser Lizenz, die Sammlung von Bildern mit meinem neuen Bild obliegt aber den Bestimmungen für weiterentwickelte Produkte.
