@@ -29,3 +29,21 @@ To seek contact, you can use either of the following methods:
 If a contact method does not work, please tell me using another of them.
 
 
+## 3: Distribution
+
+###### 3a: Freeware Content
+
+For the time of me maintaining the content and its distribution, freeware content, unless stated otherwise in the license of a specific piece of content, may only be distributed by the author (me) or a person or platform of the authors choice (filehost) who is allowed to distribute the content.
+
+The best efforts are made to ensure the content distribution goes without issues such as viruses, however this can not be guaranteed. If an issue should appear with content distribution, please contact me using the methods mentioned in `2: Contact`
+
+
+###### 3b: Payware Content
+
+Payware content may *only* be distributed over the methods chosen by the author. Agreements between the author and a seller are not limited by this license. Redistribution of payware content without permission from the author is forbidden, even if it reached Abandonware status.
+
+## 4: Modification
+
+###### 4a: Freeware Content
+
+Unless otherwise stated specifically for a piece of content, distributing modifications of content without seeking permission from the author (using 2: Contact) is forbidden. Private modifications may be made. It is allowed to show such private modifications on screenshots in forums.
