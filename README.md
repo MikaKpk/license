@@ -118,3 +118,19 @@ Zum Beispiel, wenn ich ein bestehendes Bild bearbeitet habe, welches vorraussetz
 Wenn ein neu erstellter Inhalt zu einem bestehenden Produkt hinzugefügt wurden, gilt diese Lizenz für den hinzugefügten Inhalt selbst, das modifizierte Produkt mit dem hinzugefügten Inhalt gemeinsam folgt jedoch den Bedingungen für weiterentwickelte Produkte.
 
 Zum Beispiel, wenn ich ein neues Bild, an dem ich volle Rechte besitze, zu einer Sammlung von Bildern hinzufüge, so steht das hinzugefügte Bild selbst unter dieser Lizenz, die Sammlung von Bildern mit meinem neuen Bild obliegt aber den Bestimmungen für weiterentwickelte Produkte.
+
+
+## 2: Kontakt
+
+Zum Kontakt können die folgenden Methoden verwendet werden:
+
+Privatnachricht im Trainzdepot Forum https://www.trainzdepot.net/index.php?user/2829-nbsplus-mika/
+Privatnachricht im Auran Forum https://forums.auran.com/trainz/member.php?851742-Laurinlaki
+Privatnachricht im MetroSim Forum http://sim.bemined.nl/forum/memberlist.php?mode=viewprofile&u=657
+Kontakt über Twitter https://twitter.com/DynoMika
+Einen Kommentar auf dieser Repository verfassen (sollte mir eine E-Mail senden)
+
+Wenn eine Kontaktmethode nicht funktioniert, teilen sie dies bitte über eine der anderen mit
+
+
+
