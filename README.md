@@ -31,19 +31,73 @@ If a contact method does not work, please tell me using another of them.
 
 ## 3: Distribution
 
-###### 3a: Freeware Content
+##### 3a: Freeware Content
 
 For the time of me maintaining the content and its distribution, freeware content, unless stated otherwise in the license of a specific piece of content, may only be distributed by the author (me) or a person or platform of the authors choice (filehost) who is allowed to distribute the content.
 
 The best efforts are made to ensure the content distribution goes without issues such as viruses, however this can not be guaranteed. If an issue should appear with content distribution, please contact me using the methods mentioned in `2: Contact`
 
 
-###### 3b: Payware Content
+##### 3b: Payware Content
 
 Payware content may *only* be distributed over the methods chosen by the author. Agreements between the author and a seller are not limited by this license. Redistribution of payware content without permission from the author is forbidden, even if it reached Abandonware status.
 
 ## 4: Modification
 
-###### 4a: Freeware Content
+##### 4a: Freeware Content
 
-Unless otherwise stated specifically for a piece of content, distributing modifications of content without seeking permission from the author (using 2: Contact) is forbidden. Private modifications may be made. It is allowed to show such private modifications on screenshots in forums.
+Unless otherwise stated specifically for a piece of content, distributing modifications of content without seeking permission from the author (`using 2: Contact`) is forbidden. Private modifications may be made. It is allowed to show such private modifications on screenshots in forums.
+
+In the case of permission being granted for a modification to be released publically, all liability for that modification goes to its publisher, as what happens with these modifications is out of my control.
+
+Any modification of freeware content in any case has to be freeware itself as well, which means that it needs to be available to download for everyone and not be hidden behind a payware wall. The only current exception of this is the Auran DLS if content is also available outside of it.
+
+Any modification of freeware content in any case has to give credit to the original author. This rule applies for private modifications being visible on screenshots as well.
+
+
+##### 4b: Payware Content
+
+Distribution of modifications of payware content is not allowed, unless an agreement with the author is reached. Private modifications may be made. The Abandonware rule does not apply to payware content.
+
+
+## 5: Abandonware
+
+To prevent content being unavailable or unmodifyable if the author is unreachable for a extended period of time, the following rules apply. These rules only apply for freeware content. The Abandonware rules do not apply to payware content.
+
+The Abandonware rules do also not apply if the content was purposely removed from its official distribution sources by the author and this was made clear.
+
+The Author retains full rights on the content even when it becomes abandonware, this means that in case a removal of content was purposely done by the author, but unclear to a later user, he might use the content under Abandonware rules until this becomes clear, but the content has to be removed by abandonware users if the author later requests so.
+
+
+##### 5a: Simple abandonware status (distribution)
+
+If content is unavailable from its official distribution source and an attempt was made to contact the author using the methods mentioned in `2: Contact` *and* login dates on forums make clear that the author was not online since the contact attempt, then the content may be redistributed
+
+* if the content is freeware content
+* if 6 months have passed since the contact attempt
+
+The content may **only** be redistributed on sites that allow free download. Paywalls are not allowed.
+
+Credit to the original author **must** be given.
+
+The content **must** be in its original form and unchanged. The only exception from this rule is archive repackaging if the original download archive does not exist anymore but only the contained files in a unpacked form.
+
+All liability for that distributions goes to its publisher, as what happens with these distributions is out of my control.
+
+##### 5b: Extended abandonware status (modification)
+
+If an attempt was made to contact the author using the methods mentioned in `2: Contact` *and* login dates on forums make clear that the author was not online since the contact attempt, then the content may be modified and distributed in its modified form
+
+* if the content is freeware content
+* if 2 years have passed since the contact attempt
+
+The content may **only** be redistributed on sites that allow free download. Paywalls are not allowed. The only current exception of this is the Auran DLS if the original content is available through the Auran DLS as well.
+
+Credit to the original author **must** be given.
+
+All liability for that modification goes to its publisher, as what happens with these modifications is out of my control.
+
+
+## 6: This License
+
+This is version V1 of the MKCL License, created on the 28th of May, 2018.
